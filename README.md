@@ -1,6 +1,6 @@
 ### Hello world! I'm Murat 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![muratcelikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratcelikk&show_icons=true&theme=radical)
 
 
 
