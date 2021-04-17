@@ -11,4 +11,4 @@
 ## Technologies
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](link) 
 [![f Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](link) 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[Java-ED8B00].svg" />
+<img height="32" width="32" src="https://img.shields.io/badge/java.svg" />
