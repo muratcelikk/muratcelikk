@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black&link=link/)](muratcelik11@gmail.com) 
 
 ## My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
+
 
 ## Technologies
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](link) 
