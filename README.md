@@ -3,7 +3,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=layout-compact&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12943830/murat-%C3%87el%C4%B0k) 
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-2EC866?style=layout-compact&logo=hackerrank&logoColor=white&link=link/)](https://www.hackerrank.com/muratcelik11?hr_r=1) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=layout-compact&logo=gmail&logoColor=white&link=link/)](muratcelik11@gmail.com) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=muratcelikk)
 
 ## My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
