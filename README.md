@@ -5,9 +5,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muratcelikk)
 
 ## My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muratcelikk&show_icons=true&theme=gradient) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
 
 ### Technologies
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
