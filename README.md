@@ -6,6 +6,7 @@
 
 ## My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=muratcelikk&show_icons=true&theme=gradient) 
 
 
 ### Technologies
