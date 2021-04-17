@@ -10,4 +10,4 @@
 
 ## Technologies
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](link) 
-[![Java Badge](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=java&logoColor=white&link=link)](link) 
+[![Java Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&link=link)](link) 
