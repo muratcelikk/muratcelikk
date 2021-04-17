@@ -4,6 +4,8 @@
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-2EC866?style=layout-compact&logo=hackerrank&logoColor=white&link=link/)](https://www.hackerrank.com/muratcelik11?hr_r=1) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=layout-compact&logo=gmail&logoColor=white&link=link/)](muratcelik11@gmail.com) 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 ## My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
 
