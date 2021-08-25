@@ -9,6 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
 
 ### Technologies
+## Programming Languages
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 [![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white&link=link)](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
