@@ -5,10 +5,6 @@
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-2EC866?style=layout-compact&logo=hackerrank&logoColor=white&link=link/)](https://www.hackerrank.com/muratcelik11?hr_r=1) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=muratcelikk)
 
-## My Github
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=muratcelikk&show_icons=true&theme=gradient) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcelikk&layout=compact)](https://github.com/muratcelikk/github-readme-stats)
-
 ## Technologies
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=link)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
