@@ -54,7 +54,6 @@
 
 **AI Tools:**  
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 
