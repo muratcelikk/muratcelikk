@@ -3,6 +3,7 @@
 ### 💻 Full Stack Software Engineer | Java & Spring   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcelikkk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muratcelikkk@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12943830/murat-%C3%87el%C4%B0k)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/muratcelikkk?hr_r=1)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=muratcelikk)
