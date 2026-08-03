@@ -38,7 +38,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Tools:**  
